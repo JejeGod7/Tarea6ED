@@ -1,6 +1,11 @@
 /**
  * Clase que representa un carrito de compras con métodos para aplicar descuentos.
  */
+
+/**
+ * 
+ * @author alvaro cambio
+ */
 public class Tarea6EDClase {
     //Constantes definidas
     private static final double DESCUENTO_5_PORCIENTO = 0.95;
